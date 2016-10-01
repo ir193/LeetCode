@@ -1,3 +1,0 @@
-
-some damn template
-    
